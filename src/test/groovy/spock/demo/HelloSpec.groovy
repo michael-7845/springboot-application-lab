@@ -1,5 +1,6 @@
-package hello
+package spock.demo
 
+import hello.Application
 import io.restassured.response.Response
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.context.embedded.LocalServerPort
